@@ -1,2 +1,5 @@
 # contents
-* 0b2b966842607e2dbd949b2b612f10546b9b1a1e
+
+* titles.md: The movie titles in the WebFlyx collection
+* classics.csv: A comma-separated list of classic movies
+* quotes: A directory of files containing memorable quotes from movies
