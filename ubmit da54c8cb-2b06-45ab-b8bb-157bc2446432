@@ -1,0 +1,23 @@
+[33mcommit 764bbf366f607a46e46d48c6d210bcc0b3d345ef[m[33m ([m[1;36mHEAD -> [m[1;32madd_classics[m[33m)[m
+Author: SimlyWimly <simlywimly@gmail.com>
+Date:   Mon Jun 10 08:43:06 2024 -0500
+
+    D: Added classics.csv
+
+[33mcommit c8550a218648d2acdb59aa77fe9660ba38ac452a[m[33m ([m[1;32mmain[m[33m)[m
+Author: SimlyWimly <simlywimly@gmail.com>
+Date:   Fri May 31 12:38:54 2024 -0500
+
+    C: add quotes
+
+[33mcommit 1e5c36ada12e14828247e253244c60fb348d6e9a[m
+Author: SimlyWimly <simlywimly@gmail.com>
+Date:   Fri May 31 12:31:23 2024 -0500
+
+    B: add titles
+
+[33mcommit b533105f8147863d5a3c0a305606579e95c3ff24[m
+Author: SimlyWimly <simlywimly@gmail.com>
+Date:   Mon May 27 16:49:18 2024 -0500
+
+    A: add contents.md
